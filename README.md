@@ -8,7 +8,7 @@ This repository contains a collection of macOS Bash scripts for automating vario
 ## Contents
 
 - [System](#system)
-  - [cpu-memory-usage.sh](#cpu-memory-usagesh)
+  - [battery-status.sh](#battery-statussh)
   
 ## System
 
